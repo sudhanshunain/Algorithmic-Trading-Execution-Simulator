@@ -6,13 +6,13 @@
 ## 👨‍💻 Author
 **Sudhanshu Nain**  
 *B.S. in Mathematics & Computing, IIT Patna*  
-*Quantitative Research Intern — 26 Miles Capital (Quadeye Consultants)*  
+*Quantitative Research Intern — 26 Miles Capital (Quadeye Consultant)*  
 
 ---
 
 ## 💡 Project Background
 
-During my internship at **26 Miles Capital**, I worked as a **Quantitative Researcher**, developing and testing algorithmic trading strategies for high-frequency environments.  
+During my summer internship at **26 Miles Capital**, I worked as a **Quantitative Researcher**, developing and testing algorithmic trading strategies for high-frequency environments.  
 
 While my primary task was to **design and analyze trading strategies**, I developed a deep curiosity about **how orders are executed at the microstructure level** — particularly through **order books** and **execution algorithms**.  
 
